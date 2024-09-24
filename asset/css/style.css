@@ -51,7 +51,7 @@ label{
         color: white;
     }
 }
-@media screen and (min-width: 448px) and (max-width: 992px){
+@media screen and (min-width: 428px) and (max-width: 992px){
     .whatsapp, .instagram, .linkedin{
         display: flex;
         flex-direction: column;
